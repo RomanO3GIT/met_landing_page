@@ -18,15 +18,14 @@ You can view a live preview of the landing page [here](https://romano3git.github
 The design mockup for the landing page can be accessed [here](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 
 #Additional Launch Instructions
+
 To run this project locally, follow these steps:
 
 1.Clone the repository:
 git clone https://github.com/your-username/met-museum-landing-page.git
-Navigate to the project directory:
 
 2.Navigate to the project directory:
 cd met-museum-landing-page
-Install dependencies (if any):
 
 3.Install dependencies (if any):
 npm install
@@ -39,4 +38,9 @@ npm run build-css
 5.Open the index.html file in your browser:
 open index.html
 
+#Additional Information
+
+Favicon: A custom favicon has been added to enhance the branding of the page.
+Responsive Images: Images are optimized for different screen sizes to improve load times and performance.
+SASS Mixins: Various mixins have been created to handle common styles and media queries efficiently.
 
