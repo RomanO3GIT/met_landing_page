@@ -11,11 +11,11 @@ Responsive Design: Ensures the website looks good on devices of various sizes.
 
 #Preview
 
-You can view a live preview of the landing page here: [DEMO LINK](https://romano3git.github.io/met_landing_page/)
+You can view a live preview of the landing page [here](https://romano3git.github.io/met_landing_page/)
 
 #Mockup
 
-The design mockup for the landing page can be accessed here:[Link to the mockup](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
+The design mockup for the landing page can be accessed [here](https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 
 #Additional Launch Instructions
 To run this project locally, follow these steps:
