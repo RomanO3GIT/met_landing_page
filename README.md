@@ -41,6 +41,8 @@ open index.html
 #Additional Information
 
 Favicon: A custom favicon has been added to enhance the branding of the page.
+
 Responsive Images: Images are optimized for different screen sizes to improve load times and performance.
+
 SASS Mixins: Various mixins have been created to handle common styles and media queries efficiently.
 
