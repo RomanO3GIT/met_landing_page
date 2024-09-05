@@ -5,9 +5,13 @@ This project is a landing page for The MET (Metropolitan Museum of Art) designed
 #Technologies Used
 
 HTML5: Markup language used for structuring the content.
+
 SCSS (SASS): CSS preprocessor to write more maintainable and scalable styles.
+
 Google Fonts: Custom fonts used for typography.
+
 Responsive Design: Ensures the website looks good on devices of various sizes.
+
 
 #Preview
 
