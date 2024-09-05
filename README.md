@@ -1,4 +1,4 @@
-The MET Museum Landing Page
+#The MET Museum Landing Page
 
 This project is a landing page for The MET (Metropolitan Museum of Art) designed to provide visitors with essential information about the museum, including current exhibitions, visiting hours, contact information, and more. The page is responsive and features an elegant and user-friendly interface.
 
@@ -13,7 +13,7 @@ Responsive Design: Ensures the website looks good on devices of various sizes.
 You can view a live preview of the landing page here: [DEMO LINK](https://romano3git.github.io/met_landing_page/)
 
 #Mockup
-The design mockup for the landing page can be accessed here:[Link to the mockup] https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET
+The design mockup for the landing page can be accessed here:[Link to the mockup] (https://www.figma.com/design/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
 
 #Additional Launch Instructions
 To run this project locally, follow these steps:
